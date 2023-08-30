@@ -1,11 +1,11 @@
 /********************************************************
-    CSCI 240        Program 2       Fall 2023
+    CSCI 240        Program 3       Fall 2023
 
     Programmer: Scott Sheble
 
     Section: 1
 
-    Date Due: 9/15/2023
+    Date Due: 9/22/2023
 
     Purpose: Compiler Training
 
@@ -13,9 +13,12 @@
 *********************************************************/
 
 #include <iostream>
+#include <iomanip>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+int main()
+{
+    std::cout << "What is your gross income?";
     return 0;
 }
