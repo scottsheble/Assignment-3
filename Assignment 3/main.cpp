@@ -1,9 +1,16 @@
-//
-//  main.cpp
-//  Assignment 3
-//
-//  Created by scott sheble on 8/30/23.
-//
+/********************************************************
+    CSCI 240        Program 2       Fall 2023
+
+    Programmer: Scott Sheble
+
+    Section: 1
+
+    Date Due: 9/15/2023
+
+    Purpose: Compiler Training
+
+    Created by scott sheble on 8/28/23.
+*********************************************************/
 
 #include <iostream>
 
